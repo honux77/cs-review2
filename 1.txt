@@ -1,1 +1,2 @@
-Hello, codeSquad
+Hello, CodeSquad
+Hello, Github! 
